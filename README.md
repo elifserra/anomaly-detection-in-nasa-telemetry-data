@@ -1,0 +1,1 @@
+Create an .env file under the project root and set your Kaggle credentials as specified in the .env_example file. Do not use quotes.

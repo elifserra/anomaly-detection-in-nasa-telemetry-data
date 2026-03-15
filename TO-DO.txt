@@ -1,0 +1,4 @@
+verideki p- t- m- gibi olanlar her biri bir channel. tüm veri kullanılabilir. labeled anomalies hangi verinin hangi araca ait olduğunu veriyor.
+27 tane attribute var.
+bunların ayıklanıp bir araya getirilmesi lazım
+sonrası da anomaly detection ve clustering
